@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DosActividades</string>
+    <string name="other_activity_button">Ir a otra actividad</string>
+    <string name="show_button">Mostrar</string>
+</resources>

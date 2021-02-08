@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P12Mapas</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="marked_detail_latlng">(%1$.2f, %2$.2f)</string>
+    <string name="TolucaInfo">Es una ciudad mexicana</string>
+    <string name="title_activity_maps_tipos">Map</string>
+    <string name="title_activity_maps_mi_localizacion">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
